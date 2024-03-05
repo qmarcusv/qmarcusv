@@ -76,7 +76,7 @@ I'm an indie full-stack developer on my way building my version of the digital w
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qmarcusv&theme=radical&mode=weekly&card_width=494&type=png" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qmarcusv&theme=radical&card_width=494&type=png" alt="GitHub Streak" /></a>
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     </a>
   </p>
