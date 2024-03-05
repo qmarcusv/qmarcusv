@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/qmarcusv">
-    <img src="https://i.postimg.cc/wvRZcgsh/Phantom-200-x-200-px.png" alt="Marcus Vu" /></a>
+    <img src="https://i.postimg.cc/ZnfhwZLj/Phantom-150-x-100-px.png" alt="Marcus Vu" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/qmarcusv">
