@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/qmarcusv">
-    <img src="https://www.canva.com/design/DAF-pRessso/PeMnU7Yfux9gIoziLNeKTQ/view?utm_content=DAF-pRessso&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Marcus Vu" /></a>
+    <img src="https://i.postimg.cc/wvRZcgsh/Phantom-200-x-200-px.png" alt="Marcus Vu" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/qmarcusv">
