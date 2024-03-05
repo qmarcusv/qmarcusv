@@ -17,9 +17,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
-# Marcus Vu
-
-Digital Witcher (Developer)
 
 I'm an indie full-stack developer on my way building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
